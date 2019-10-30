@@ -1,0 +1,7 @@
+build:
+  binary: terraform-provider-s3
+  goos:
+    - darwin
+    - linux
+  goarch:
+    - amd64
